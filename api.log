@@ -1,0 +1,3 @@
+time=2026-06-27T22:46:40.662+06:00 level=INFO source="D:/hafiz/learn golang/main.go:15" msg="APP started" server=localhost
+time=2026-06-27T22:46:40.663+06:00 level=INFO source="D:/hafiz/learn golang/main.go:18" msg="DB Cnnnected" component=DB Post=270017
+time=2026-06-27T22:46:40.663+06:00 level=INFO source="D:/hafiz/learn golang/main.go:19" msg="DB Cnnnected2" component=DB Post2=270018
