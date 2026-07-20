@@ -2,10 +2,8 @@ package main
 
 import (
 	"fmt"
-	"os"
 	"log"
-	"config"
-
+	"config_module/config"
 )
 
 
